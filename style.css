@@ -22,12 +22,21 @@ label {
     box-sizing: border-box;
     border: 1px solid #999;
 }
+.p{
+    margin-left: 30px;
+
+}
+.input--p{
+    margin: 2px;
+}
+
 textarea{
 	 vertical-align: top;
 	  height: 50px;
 	  resize: vertical;
 }
 button {
-    padding-left: 90px; 
-    margin-left: 8px;
+    padding-left: 60px; 
+    margin-left: 100px;
+    margin-top: -10px;
 }
